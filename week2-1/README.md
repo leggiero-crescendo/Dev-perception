@@ -12,3 +12,4 @@
 ### [Homework 1] Login Shell and Environment
 - terminal을 통해 halt, poweroff, reboot 진행
 ### [Homework 2]  
+![image](https://user-images.githubusercontent.com/125112464/226371367-bb6516fc-a020-41fe-8945-9ae295e98de2.png)
