@@ -15,7 +15,8 @@
 ![image](https://user-images.githubusercontent.com/125112464/226371367-bb6516fc-a020-41fe-8945-9ae295e98de2.png)
 ### [Homework 3]
 1. locale-gen 을 통해 일본어 추가
+- ![image](https://user-images.githubusercontent.com/125112464/226381786-9f1c620c-f087-42c6-928f-86999a17f1cd.png)
+- ![image](https://user-images.githubusercontent.com/125112464/226382020-a78942b3-40fc-4360-a8fa-9c06e6966576.png)
+
 2. localectl set-locale을 통해 일본어로 변경 -> 영어로 변경
-![image](https://user-images.githubusercontent.com/125112464/226381786-9f1c620c-f087-42c6-928f-86999a17f1cd.png)
-![image](https://user-images.githubusercontent.com/125112464/226382020-a78942b3-40fc-4360-a8fa-9c06e6966576.png)
-![image](https://user-images.githubusercontent.com/125112464/226382064-1ebb8a35-13e0-4eee-ba80-9e69799d0052.png)
+- ![image](https://user-images.githubusercontent.com/125112464/226382064-1ebb8a35-13e0-4eee-ba80-9e69799d0052.png)
