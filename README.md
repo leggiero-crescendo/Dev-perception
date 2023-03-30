@@ -28,5 +28,5 @@
 - [ROS 기초](./week3/230327.md)
 - [ROS 프로그래밍](./week3/230328.md)
   - [Turtlesim 8자주행 변형](./week3/230328_실습.md) : turtlesim 이 turn 하는 횟수를 파라미터로 지정할 수 있도록 코드수정
-  - [예제코드 분석](./week3/homework)
+  - [예제코드 분석](./week3//230328_실습.md)
 - [ROS 노드 통신프로그래밍](./week3/230329.md)
