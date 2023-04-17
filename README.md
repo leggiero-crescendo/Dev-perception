@@ -3,8 +3,10 @@
 - [알고리즘 연습 기록](https://github.com/leggiero-crescendo/coding-test.git)
 <details>
 <summary>Week 1 (3/17)</summary>
-<div markdown="1">       
+<div markdown="1">   
+
 - [Github 사용법 , 문제유형 파악법](./week1-1/)
+
 - [알고리즘 문제 8개 과제](./week1-2/)
 
 |  | Python | CPP |
@@ -53,6 +55,7 @@
 <details>
 <summary>Week 4 (4/3 ~ 4/7)</summary>
 <div markdown="1">       
+
 - [센서장치 기초, 데이터시각화](./week4/230403.md)
   - [과제 1 RVIZ 기반 IMU 뷰어제작](./week4/week4-1/230403실습.md)
 - [라이다, 초음파 센서 활용](./week4/230404.md)
@@ -66,6 +69,7 @@
 <details>
 <summary>Week 5 (4/10 ~ 4/14)</summary>
 <div markdown="1">       
+
 - [자이카 차선인식](./week5/230410.md)
   - [git 특강:김동영강사님](./week5/Github특강.md)
 - [차선인식 기법](./week5/230411.md)
