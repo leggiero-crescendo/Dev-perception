@@ -26,7 +26,7 @@
 </div>
 </details>
 <details>
-<summary>Week 2 (3/20 ~ 3/24)</summary>
+<summary>Week 2 : Linux Basic (3/20 ~ 3/24)</summary>
 <div markdown="1">       
 
 - [리눅스 기초1](./week2/230320.md)
@@ -38,7 +38,7 @@
 </div>
 </details>
 <details>
-<summary>Week 3 (3/27 ~ 3/31)</summary>
+<summary>Week 3 : ROS1 (3/27 ~ 3/31)</summary>
 <div markdown="1">       
 
 - [ROS 기초](./week3/230327.md)
@@ -56,7 +56,7 @@
 </div>
 </details>
 <details>
-<summary>Week 4 (4/3 ~ 4/7)</summary>
+<summary>Week 4 : ROS1 with Sensor & RVIZ (4/3 ~ 4/7)</summary>
 <div markdown="1">       
 
 - [센서장치 기초, 데이터시각화](./week4/230403.md)
@@ -70,7 +70,7 @@
 </div>
 </details>
 <details>
-<summary>Week 5 (4/10 ~ 4/14)</summary>
+<summary>Week 5 : Lane detection (4/10 ~ 4/14)</summary>
 <div markdown="1">       
 
 - [자이카 차선인식](./week5/230410.md)
