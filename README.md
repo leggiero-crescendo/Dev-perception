@@ -85,8 +85,8 @@
 <div markdown="1">       
 
 - [로보틱스 기초 지식 및 컴퓨터비전, OPENCV](./week6/230417.md)
-  - [CMake이용하여 build하기](https://leggiero-crescendo.tistory.com/95)
-  - [CMake 자세한 정리]
+  - [CMake이용하여 build하기 예시 정리](https://leggiero-crescendo.tistory.com/95)
+  - [CMakeLists 를 작성할 때 도움이 될 수 있도록 정리](https://github.com/leggiero-crescendo/Dev-perception/issues/2)
 - [OpenCV 기초사용법 1](./week6/230418.md)
 - [OpenCV 기초사용법 2](./week6/230419.md)
 - [영상의 밝기와 명암비 조절](./week6/230420.md)
