@@ -88,6 +88,7 @@
   - [CMake이용하여 build하기 예시 정리](https://leggiero-crescendo.tistory.com/95)
   - [CMakeLists 를 작성할 때 도움이 될 수 있도록 정리](https://github.com/leggiero-crescendo/Dev-perception/issues/2)
 - [OpenCV 기초사용법 1](./week6/230418.md)
+  - [수 많은 error 끝에 얻어낸 커맨드로 args 받기(feet, clion으로 args받기)](https://leggiero-crescendo.tistory.com/96)
 - [OpenCV 기초사용법 2](./week6/230419.md)
 - [영상의 밝기와 명암비 조절](./week6/230420.md)
 - [영상의 밝기와 명암비 조절](./week6/230421.md)
