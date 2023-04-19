@@ -81,7 +81,7 @@
 </div>
 </details>
 <details>
-<summary>Week 6 (4/17 ~ 4/21)</summary>
+<summary>Week 6 : OpenCV with C++ Basic (4/17 ~ 4/21)</summary>
 <div markdown="1">       
 
 - [로보틱스 기초 지식 및 컴퓨터비전, OPENCV](./week6/230417.md)
