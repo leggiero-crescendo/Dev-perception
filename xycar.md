@@ -1,24 +1,19 @@
 # xycar 정리
 
-생성일: 2023년 4월 3일 오후 4:09
-
-# 목차
-
----
 
 [자이카 사용 매뉴얼(new ver)](https://www.notion.so/new-ver-5158f3c513124e3298174312d2ec7290) 
 
 # xycar_ros pkg
 
-![Untitled](xycar%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%20bc15542e1b334e6b845342144d333d55/Untitled.png)
+![Untitled](xycar/Untitled.png)
 
-![Untitled](xycar%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%20bc15542e1b334e6b845342144d333d55/Untitled%201.png)
+![Untitled](xycar/Untitled%201.png)
 
 ## 자이카 조이스틱
 
-![Untitled](xycar%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%20bc15542e1b334e6b845342144d333d55/Untitled%202.png)
+![Untitled](xycar/Untitled%202.png)
 
-![Untitled](xycar%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%20bc15542e1b334e6b845342144d333d55/Untitled%203.png)
+![Untitled](xycar/Untitled%203.png)
 
 ## ROS 사용 요약
 
@@ -96,9 +91,9 @@ catkin_package(
 
 # [자이카 하드웨어](https://www.notion.so/230330-91c8be3db5af4d958ce1d3a61c3a6cbd)
 
-![Untitled](xycar%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%20bc15542e1b334e6b845342144d333d55/Untitled%204.png)
+![Untitled](xycar/Untitled%204.png)
 
-![Untitled](xycar%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%20bc15542e1b334e6b845342144d333d55/Untitled%205.png)
+![Untitled](xycar/Untitled%205.png)
 
 ## [전원 키는 방법](https://www.notion.so/230331-f1ea345b6ef94a72af6118390821db2b)
 
@@ -155,14 +150,14 @@ measuring angle = 15˚ | - | - |
     - Trig : 센서를 동작시키기 위한 트리거 시그널(입력)
     - Echo : 거리측정 결과를 전달하기 위한 시그널(출력)
     
-    ![Untitled](xycar%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%20bc15542e1b334e6b845342144d333d55/Untitled%206.png)
+    ![Untitled](xycar/Untitled%206.png)
     
 
 ![초음파 센서 배열 순서](https://velog.velcdn.com/images%2Fopenjr%2Fpost%2Fcbb9ee01-cc12-43b2-a14f-1aedbc04cc6b%2Fimage.png)
 
 초음파 센서 배열 순서
 
-![Untitled](xycar%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%20bc15542e1b334e6b845342144d333d55/Untitled%207.png)
+![Untitled](xycar/Untitled%207.png)
 
 - 시작 → 초음파 발사와 수신 → 시간차 출력
     - 아두이노가 TRIG 핀에 10us 동안 High 신호를 내보냄
@@ -170,7 +165,7 @@ measuring angle = 15˚ | - | - |
     - 물체에 반사된 초음파 펄스가 되돌아가서 초음파센서에 수신됨
     - 센서는 송신과 수신의 시간차에 비례하는 길이의 펄스를 Echo 핀으로 출력함
     
-    ![Untitled](xycar%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%20bc15542e1b334e6b845342144d333d55/Untitled%208.png)
+    ![Untitled](xycar/Untitled%208.png)
     
 - 초음파 센서를 이용한 거리 측정방법
     - 소리 속도 : 340m/s (1s 당 340m 이동)
@@ -178,7 +173,7 @@ measuring angle = 15˚ | - | - |
     - 송신과 수신의 시간차 = 초음파의 왕복 이동시간
     - 물체까지의 거리  = ((송신과 수신의 시간차 us / 2) / 29us) cm
 
-![Untitled](xycar%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%20bc15542e1b334e6b845342144d333d55/Untitled%209.png)
+![Untitled](xycar/Untitled%209.png)
 
 - 초음파 센서의 측정 오류 ( 흡수,,, 튕기거나)
 
@@ -194,7 +189,7 @@ measuring angle = 15˚ | - | - |
         - Ultrasonic Wave 초음파란? : 가청주파수 대역보다 높은 진동수로 발생하는 파동 ( 가청주파수인 20Hz ~ 20kHz 이상 )
         - 초음파를 이용하여 센서로부터 사물까지의 직선거리를 측정
             
-            ![Untitled](xycar%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%20bc15542e1b334e6b845342144d333d55/Untitled%2010.png)
+            ![Untitled](xycar/Untitled%2010.png)
             
         - 시그널
             - vcc : 센서 부품에 전력 공급 (DC 5v)
@@ -202,7 +197,7 @@ measuring angle = 15˚ | - | - |
             - Trig : 센서를 동작시키기 위한 트리거 시그널(입력)
             - Echo : 거리측정 결과를 전달하기 위한 시그널(출력)
         
-        ![Untitled](xycar%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%20bc15542e1b334e6b845342144d333d55/Untitled%2011.png)
+        ![Untitled](xycar/Untitled%2011.png)
         
         - 시작 → 초음파 발사와 수신 → 시간차 출력
             - 아두이노가 TRIG 핀에 10us 동안 High 신호를 내보냄
@@ -210,7 +205,7 @@ measuring angle = 15˚ | - | - |
             - 물체에 반사된 초음파 펄스가 되돌아가서 초음파센서에 수신됨
             - 센서는 송신과 수신의 시간차에 비례하는 길이의 펄스를 Echo 핀으로 출력함
             
-            ![Untitled](xycar%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%20bc15542e1b334e6b845342144d333d55/Untitled%208.png)
+            ![Untitled](xycar/Untitled%208.png)
             
         - 초음파 센서를 이용한 거리 측정방법
             - 소리 속도 : 340m/s (1s 당 340m 이동)
@@ -218,7 +213,7 @@ measuring angle = 15˚ | - | - |
             - 송신과 수신의 시간차 = 초음파의 왕복 이동시간
             - 물체까지의 거리  = ((송신과 수신의 시간차 us / 2) / 29us) cm
         
-        ![Untitled](xycar%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%20bc15542e1b334e6b845342144d333d55/Untitled%209.png)
+        ![Untitled](xycar/Untitled%209.png)
         
         - 초음파 센서의 측정 오류 ( 흡수,,, 튕기거나)
 2. 아두이노 역할 이해
@@ -234,9 +229,9 @@ measuring angle = 15˚ | - | - |
         
         Echo - 초음파 센서가 아두이노에게 보내는 신호
         
-        ![Untitled](xycar%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%20bc15542e1b334e6b845342144d333d55/Untitled%2012.png)
+        ![Untitled](xycar/Untitled%2012.png)
         
-        ![Untitled](xycar%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%20bc15542e1b334e6b845342144d333d55/Untitled%2013.png)
+        ![Untitled](xycar/Untitled%2013.png)
         
     - 아두이노 펌웨어 프로그래밍
         
@@ -282,7 +277,7 @@ measuring angle = 15˚ | - | - |
         }
         ```
         
-        ![Untitled](xycar%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%20bc15542e1b334e6b845342144d333d55/Untitled%2014.png)
+        ![Untitled](xycar/Untitled%2014.png)
         
     - PC에서 아두이노 연결 & 컴파일
         
@@ -298,11 +293,11 @@ measuring angle = 15˚ | - | - |
         
         컴파일& 업로드
         
-        ![Untitled](xycar%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%20bc15542e1b334e6b845342144d333d55/Untitled%2015.png)
+        ![Untitled](xycar/Untitled%2015.png)
         
         출력값확인
         
-        ![Untitled](xycar%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%20bc15542e1b334e6b845342144d333d55/Untitled%2016.png)
+        ![Untitled](xycar/Untitled%2016.png)
         
 3. 리눅스 프로그래밍 필요
     
@@ -402,13 +397,13 @@ measuring angle = 15˚ | - | - |
 | IMU 센서 | /xycar_imu | /imu | sensor_msgs/Imu |
 | Depth cam | /camera/realsense2_camera | /camera/color/image_raw*/image_rect_raw |  |
 
-![Untitled](xycar%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%20bc15542e1b334e6b845342144d333d55/Untitled%2017.png)
+![Untitled](xycar/Untitled%2017.png)
 
 ## 메세지 타입
 
 ### Odometry
 
-![Untitled](xycar%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%20bc15542e1b334e6b845342144d333d55/Untitled%2018.png)
+![Untitled](xycar/Untitled%2018.png)
 
 ### 센서 메세지 타입
 
@@ -511,4 +506,4 @@ uint32[] data # 실제 영상 데이터
 
 - 초음파 센서와 아두이노 연결
     
-    ![Untitled](xycar%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%20bc15542e1b334e6b845342144d333d55/Untitled%2019.png)
+    ![Untitled](xycar/Untitled%2019.png)
