@@ -2,6 +2,7 @@
 - [프로그래머스 자율주행인지과정 5기](https://school.programmers.co.kr/learn/courses/16305/16305-5%EA%B8%B0-k-digital-training-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89-%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-perception)
 - [알고리즘 연습 기록](https://github.com/leggiero-crescendo/coding-test.git)
 - [Xycar 모음](xycar.md)
+- [OpenCV C++ 예시 모음](https://github.com/leggiero-crescendo/Dev-perception/issues/3)
 
 # TIL
 
@@ -92,7 +93,7 @@
   - [실습 1 영상 입출력 : 커맨드로 args 받기(feet, clion으로 args받기)](https://leggiero-crescendo.tistory.com/96)
 - [OpenCV 기초사용법 2](./week6/230419.md)
 - [영상의 밝기와 명암비 조절](./week6/230420.md)
-- [](./week6/230421.md)
+- [필터링](./week6/230421.md)
 
 </div>
 </details>
