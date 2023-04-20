@@ -92,7 +92,7 @@
   - [실습 1 영상 입출력 : 커맨드로 args 받기(feet, clion으로 args받기)](https://leggiero-crescendo.tistory.com/96)
 - [OpenCV 기초사용법 2](./week6/230419.md)
 - [영상의 밝기와 명암비 조절](./week6/230420.md)
-- [영상의 밝기와 명암비 조절](./week6/230421.md)
+- [](./week6/230421.md)
 
 </div>
 </details>
