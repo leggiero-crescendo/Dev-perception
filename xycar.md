@@ -5,8 +5,6 @@
 
 # xycar_ros pkg
 
-![Untitled](xycar/Untitled.png)
-
 ![Untitled](xycar/Untitled%201.png)
 
 ## 자이카 조이스틱
@@ -44,7 +42,7 @@ export ROS_HOSTNAME=localhost
 | --- | --- |
 | $ roslaunch [pkg] [file.launch] | 런치파일 실행 (roscore 실행이 안 되어있어도 가능) |
 | <include file="$(find [같이 실행할 런치파일의 pkg])/src/launch/[같이 실행할 런치파일 이름].launch/> | 다른 런치파일을 불러올 때 사용하는 태그 |
-| <param name="변수이름" type="변수 자료형" value="변수값"/> | 파라미터 태그 |
+| param name="변수이름" type="변수 자료형" value="변수값" | 파라미터 태그 |
 
 ## 사용자 메세지 만들기
 
