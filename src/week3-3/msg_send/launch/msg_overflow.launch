@@ -1,0 +1,4 @@
+<launch>
+	<node pkg='msg_send' type='sender_overflow.py' name='sender' />
+	<node pkg='msg_send' type='receiver_overflow.py' name='receiver' output='screen' />
+</launch>
