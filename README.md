@@ -1,10 +1,26 @@
-# DEV-Perception
+# 🤔 DEV-Perception
 - [프로그래머스 자율주행인지과정 5기](https://school.programmers.co.kr/learn/courses/16305/16305-5%EA%B8%B0-k-digital-training-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89-%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-perception)
 - [알고리즘 연습 기록](https://github.com/leggiero-crescendo/coding-test.git)
+
+# 🗂 Doc
+<details>
+<summary>Xycar</summary>
+<div markdown="1"> 
+
 - [Xycar 모음](xycar.md)
+</div>
+</details>
+<details>
+<summary>OpenCV C++ 예시 모음</summary>
+<div markdown="1"> 
+
+- [OpenCV 영상 입출력](https://github.com/leggiero-crescendo/Dev-perception/issues/3)
+- [cv::Mat](https://github.com/leggiero-crescendo/Dev-perception/issues/3#issuecomment-1516305225)
+</div>
+</details>
 
 
-# TIL
+# 🐣 TIL
 
 <details>
 <summary>Week 1 (3/17)</summary>
@@ -99,12 +115,3 @@
 </details>
 
 
-## Doc
-<details>
-<summary>OpenCV C++ 예시 모음</summary>
-<div markdown="1"> 
-
-- [OpenCV 영상 입출력](https://github.com/leggiero-crescendo/Dev-perception/issues/3)
-- [cv::Mat](https://github.com/leggiero-crescendo/Dev-perception/issues/3#issuecomment-1516305225)
-</div>
-</details>
