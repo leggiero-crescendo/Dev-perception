@@ -16,6 +16,9 @@
 
 - [OpenCV 영상 입출력](https://github.com/leggiero-crescendo/Dev-perception/issues/3)
 - [cv::Mat](https://github.com/leggiero-crescendo/Dev-perception/issues/3#issuecomment-1516305225)
+- [동영상 입출력](https://github.com/leggiero-crescendo/Dev-perception/issues/3#issuecomment-1517192260)
+- [그리기 함수](https://github.com/leggiero-crescendo/Dev-perception/issues/3#issuecomment-1517194703)
+- [이벤트 처리((https://github.com/leggiero-crescendo/Dev-perception/issues/3#issuecomment-1517194889)
 </div>
 </details>
 
