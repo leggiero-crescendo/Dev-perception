@@ -119,7 +119,7 @@
 </details>
 
 <details>
-<summary>Week 7: OpenCV with C++ Intermediate </summary>
+<summary>Week 7: OpenCV with C++ Intermediate (4/24 ~ 4/28)</summary>
 <div markdown="1">       
 
 - [영상의 기하학적 변환](./week7/230424.md)
