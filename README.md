@@ -118,4 +118,16 @@
 </div>
 </details>
 
+<details>
+<summary>Week 7: OpenCV with C++ Intermediate </summary>
+<div markdown="1">       
+
+- [영상의 기하학적 변환](./week7/230424.md)
+- [컬러 영상 처리](./week7/230425.md)
+- [영상의 특징 추출](./week7/230426.md)
+- [이진 영상 처리](./week7/230427.md)
+- [영상분활과 객체검출](./week7/230428.md)
+
+</div>
+</details>
 
