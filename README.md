@@ -14,18 +14,15 @@
 <summary>OpenCV C++ 예시 모음</summary>
 <div markdown="1"> 
 
-### Basic
-- [OpenCV 영상 입출력](https://github.com/leggiero-crescendo/Dev-perception/issues/3)
-- [cv::Mat](https://github.com/leggiero-crescendo/Dev-perception/issues/3#issuecomment-1516305225)
-- [동영상 입출력](https://github.com/leggiero-crescendo/Dev-perception/issues/3#issuecomment-1517192260)
-- [그리기 함수](https://github.com/leggiero-crescendo/Dev-perception/issues/3#issuecomment-1517194703)
-- [이벤트 처리](https://github.com/leggiero-crescendo/Dev-perception/issues/3#issuecomment-1517194889)
-### Intermediate
-- [이동변환, 전단변환]
-- [크기변환 보간법]
-- [회전변환, 기하변한]
-- [어파인변환 투시변환]
-- [리맵핑]
+  
+| Basic | Intermediate |
+| --- | --- |
+| [OpenCV 영상 입출력](https://github.com/leggiero-crescendo/Dev-perception/issues/3) | 이동변환, 전단변환 |
+| [cv::Mat](https://github.com/leggiero-crescendo/Dev-perception/issues/3#issuecomment-1516305225) | 크기변환 보간법 |
+|[동영상 입출력](https://github.com/leggiero-crescendo/Dev-perception/issues/3#issuecomment-1517192260) | 회전변환, 기하변한 |
+| [그리기 함수](https://github.com/leggiero-crescendo/Dev-perception/issues/3#issuecomment-1517194703) | 어파인변환 투시변환 |
+|  [이벤트 처리](https://github.com/leggiero-crescendo/Dev-perception/issues/3#issuecomment-1517194889) | 리맵핑 |
+
 </div>
 </details>
 
