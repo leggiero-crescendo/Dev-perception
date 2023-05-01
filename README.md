@@ -135,7 +135,21 @@
 - [영상의 특징 추출](./week7/230426.md)
 - [이진 영상 처리](./week7/230427.md)
 - [영상분활과 객체검출](./week7/230428.md)
+  - [황성규강사님 Seession](./week7/230428_1.md)
 
 </div>
 </details>
 
+
+<details>
+<summary>Week 8: OpenCV with C++ Advanced (5/1 ~ 5/5)</summary>
+<div markdown="1">       
+
+- [특징점 검출과 매칭](./week8/230501.md)
+- [머신러닝과 딥러닝 1](./week8/230502.md)
+- [머신러닝과 딥러닝 2](./week8/230503.md)
+- [차선인식 온라인 프로젝트](./week8/230504-05.md)
+
+
+</div>
+</details>
