@@ -151,11 +151,8 @@
 - [머신러닝과 딥러닝 2](./week8/230503.md)
 - [차선인식 온라인 프로젝트](./week8/230504-05.md)
 
-
 </div>
 </details>
-
-
 
 <details>
 <summary>Week 9: Offline Lane keeping project (5/8 ~ 5/12)</summary>
@@ -179,9 +176,20 @@
 - [Docker](./week11/230522.md)
 - [인공신경망 개요](./week11/230523.md)
 - [신경망 개요](./week11/230524.md)
-- [Docker](./week11/230525.md)
-- [Docker](./week11/230526.md)
+- [Perception in self driving car](./week11/230525.md)
+- [CNN](./week11/230526.md)
 
+</div>
+</details>
+
+<details>
+<summary>Week 12: Deep Learning</summary>
+<div markdown="1">       
+  
+- [Object detection](./week12/230529.md)
+- [Yolo](./week12/230530.md)
+- [Yolo v3](./week12/230531.md)
+- [Yolo v3 Load model](./week12/230601.md)
 
 </div>
 </details>
