@@ -170,7 +170,7 @@
 </details>
 
 <details>
-<summary>Week 11: 인공지능개요(5/22 ~ 5/26)</summary>
+<summary>Week 11: 인공지능개요 (5/22 ~ 5/26)</summary>
 <div markdown="1">       
   
 - [Docker](./week11/230522.md)
@@ -183,7 +183,7 @@
 </details>
 
 <details>
-<summary>Week 12: Deep Learning(5/29 ~ 6/2)</summary>
+<summary>Week 12: Deep Learning (5/29 ~ 6/2)</summary>
 <div markdown="1">       
   
 - [Object detection](./week12/230529.md)
