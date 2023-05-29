@@ -177,6 +177,7 @@
 - [인공신경망 개요](./week11/230523.md)
 - [신경망 개요](./week11/230524.md)
 - [Perception in self driving car](./week11/230525.md)
+  - [pytorch tensor ](./week11/week11-4/pytorch_tensor.py)
 - [CNN](./week11/230526.md)
 
 </div>
