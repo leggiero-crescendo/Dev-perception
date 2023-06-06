@@ -194,3 +194,16 @@
 
 </div>
 </details>
+
+<details>
+<summary>Week 13: 자율주행 perception 기술 (6/5 ~ 6/9)</summary>
+<div markdown="1">       
+  
+- [자율주행 perception 기술](./week13/230605.md)
+- [Open Dataset](./week13/230606.md)
+- [Data labeling](./week13/230607.md)
+- [Perception Application1](./week13/230608.md)
+- [Perception Application2](./week13/230609.md)
+
+</div>
+</details>
